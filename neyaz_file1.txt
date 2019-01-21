@@ -1,2 +1,2 @@
-Hello, I am neyazfile1.txt. Hello I am a change file. 
+Hello, I am neyazfile1.txt
 
