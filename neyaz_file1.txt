@@ -1,2 +1,3 @@
-changed newafter branch2 wqHello, I am neyazfile1.txt. I am change ready to be staged. test reset check branch1 1neyafile1.txtI chnged after branch
+ I am resolving conficlit now..`:wq!
+Change in Branch 2 file.
 
