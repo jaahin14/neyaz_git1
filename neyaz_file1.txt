@@ -1,6 +1,1 @@
- I am resolving conficlit now..`:wq!
-Change in Branch 2 file.
-
-=======
-Pls change my branch1 file
->>>>>>> branch1
+nnew file name
