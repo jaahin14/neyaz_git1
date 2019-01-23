@@ -1,2 +1,1 @@
-Hello, I am neyazfile1.txt. I am change ready to be staged. test reset check branch1 1neyafile1.txt`
-
+Pls change my branch1 file
